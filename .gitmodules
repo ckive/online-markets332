@@ -1,0 +1,6 @@
+[submodule "332projects"]
+	path = 332projects
+	url = git@github.com:ckive/332projects.git
+[submodule "onlinelearning"]
+	path = onlinelearning
+	url = git@github.com:ckive/332p2.git
